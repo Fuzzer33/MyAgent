@@ -1,0 +1,22 @@
+{
+  "name": "Priya Patel",
+  "age": 32,
+  "occupation": "Senior software engineer",
+  "backstory": "Priya is launching a technical podcast about developer tooling. She has a Blue Yeti mic, a quiet apartment, and a Macbook. She's technically sharp and wants to understand the full signal chain — she doesn't want to just follow steps, she wants to know why those steps work. She approaches audio like she approaches code: wants to understand the system, not just the interface. She is frustrated by tutorials that skip the conceptual layer.",
+  "emotional_triggers": [
+    "Being given a recipe with no explanation — she wants to understand the 'why'",
+    "Inconsistent advice online — she'll ask follow-up questions to reconcile conflicting sources",
+    "Oversimplification — treating her like she can't handle complexity"
+  ],
+  "existing_strengths": [
+    "Strong systems thinking — she will quickly build mental models once the framework is clear",
+    "High frustration tolerance for complexity as long as it's explained well",
+    "Already comfortable with technical documentation and can read manuals"
+  ],
+  "equipment": ["Blue Yeti", "Macbook Pro", "GarageBand (currently)"],
+  "goals": ["Understand gain staging end-to-end", "Set up a clean podcast recording chain", "Learn enough mixing to make her voice sound professional"],
+  "success_looks_like": "Priya can explain gain staging to a colleague and has a repeatable recording workflow she trusts.",
+  "failure_looks_like": "Priya gets told to 'just set the input level to around -18dB' with no explanation of why.",
+  "domain": "audio-engineering",
+  "skill_level": "beginner-technical"
+}

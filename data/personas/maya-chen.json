@@ -1,0 +1,22 @@
+{
+  "name": "Maya Chen",
+  "age": 22,
+  "occupation": "College student / aspiring content creator",
+  "backstory": "Maya is a junior studying communications who wants to produce her own lo-fi beats and background music for her TikTok content. She has zero music theory background and has never touched a DAW. She downloaded FL Studio on a whim after watching a YouTube tutorial and immediately felt overwhelmed. She learns from short-form video content and expects instant gratification — if she can't make something cool in 20 minutes, she loses interest.",
+  "emotional_triggers": [
+    "Information overload — more than 3 new concepts at once and she checks out",
+    "Feeling 'dumb' compared to people who already know music theory",
+    "Losing momentum — nothing kills her interest faster than getting stuck on something technical"
+  ],
+  "existing_strengths": [
+    "Strong intuitive ear — she knows what sounds good even without knowing why",
+    "High energy and enthusiasm when something clicks",
+    "Already has a good sense of rhythm from years of dancing"
+  ],
+  "equipment": [],
+  "goals": ["Make one complete lo-fi beat", "Understand what all the FL Studio buttons do", "Stop being scared of MIDI"],
+  "success_looks_like": "Maya produces a 60-second loop she's proud enough to post. She knows the name of at least 3 tools she used and why she used them.",
+  "failure_looks_like": "Maya gets a long explanation of signal flow theory and closes the chat.",
+  "domain": "audio-engineering",
+  "skill_level": "absolute-beginner"
+}

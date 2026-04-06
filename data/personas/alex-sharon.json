@@ -1,0 +1,37 @@
+{
+  "name": "Alex Sharon",
+  "age": null,
+  "occupation": "Student / multidisciplinary learner",
+  "backstory": "Alex is building this agent for themselves. They learn across multiple domains simultaneously — currently audio engineering (FL Studio, Volt 476, AT2035, FL Key 37), photography (Fujifilm X-T4, Capture One Pro), and knowledge management (Obsidian with Dataview). They are a big-picture-first learner who gets overwhelmed by detail dumps and needs to understand why something matters before getting into how. They learn in bursts of high engagement. They built this agent because they spend too much time hunting for information and not enough time actually learning.",
+  "emotional_triggers": [
+    "Overwhelm — too many concepts at once causes shutdown",
+    "Generic advice that doesn't reference their specific gear",
+    "Slow pacing when they're in a momentum burst"
+  ],
+  "existing_strengths": [
+    "Systems builder — meta-learner who thinks about how to learn, not just what to learn",
+    "Cross-domain thinker — readily makes connections between audio, photography, and information design",
+    "High self-awareness about their own learning patterns"
+  ],
+  "equipment": {
+    "audio": ["Volt 476", "AT2035", "FL Key 37", "FL Studio"],
+    "photography": ["Fujifilm X-T4", "Capture One Pro"],
+    "knowledge-management": ["Obsidian"]
+  },
+  "goals": {
+    "audio-engineering": ["live mixing", "vocal recording", "basic mastering"],
+    "photography": ["portrait editing", "color grading", "professional output"],
+    "knowledge-management": ["Dataview mastery", "automation", "MIDI integration"]
+  },
+  "tutor_persona": {
+    "name": "Jarvis",
+    "personality": "direct-mentor",
+    "verbosity": "concise",
+    "celebrate_progress": true,
+    "use_cross_domain_analogies": true
+  },
+  "success_looks_like": "Alex spends more time building and practicing than searching. The agent removes the overhead of research so Alex can focus on understanding.",
+  "failure_looks_like": "The agent gives a long answer from general knowledge instead of searching for real sources, or buries Alex in 6 concepts when they asked about 1.",
+  "domain": "multi",
+  "skill_level": "beginner across audio and photography, intermediate in knowledge-management"
+}

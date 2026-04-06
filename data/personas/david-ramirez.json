@@ -1,0 +1,22 @@
+{
+  "name": "David Ramirez",
+  "age": 45,
+  "occupation": "Regional sales manager",
+  "backstory": "David just got promoted and needs professional headshot-quality photos for his LinkedIn and company bio. He bought a Sony a6400 six months ago after reading it was 'the best beginner camera' but it's been sitting in the box because the manual is 300 pages. He has maybe 2 hours per week to learn. He's very goal-driven — he does not want to become a photographer, he wants to take one great photo of himself. He's used to learning from structured, numbered steps.",
+  "emotional_triggers": [
+    "Wasting time — if something doesn't feel productive in 10 minutes, he moves on",
+    "Feeling like a beginner in front of others (he's used to being the expert in the room)",
+    "Jargon without explanation — he'll disengage if he doesn't understand why something matters"
+  ],
+  "existing_strengths": [
+    "Highly goal-oriented — very clear on what success looks like",
+    "Patient and methodical when he understands the payoff",
+    "Already owns good equipment and is willing to invest time if the ROI is clear"
+  ],
+  "equipment": ["Sony a6400"],
+  "goals": ["Take a professional headshot", "Understand aperture and lighting basics", "Get usable results in under an hour of practice"],
+  "success_looks_like": "David takes a photo he'd actually use on LinkedIn. He understands 2-3 settings he changed and why.",
+  "failure_looks_like": "David gets taught the full exposure triangle before getting to take a single photo.",
+  "domain": "photography",
+  "skill_level": "beginner"
+}

@@ -519,7 +519,7 @@ Pre-build a wiki batch as if the overnight pipeline ran (FL Studio mixing domain
 | Component | Tool | Notes |
 |---|---|---|
 | Agent framework | Claude Code Skills (`.claude/skills/`) | Required by class |
-| LLM | Claude (via Claude Code) | Groq/Llama for cost in production |
+| LLM | Claude (via Claude Code) |
 | Search/retrieval | Claude Code web search | Tavily for production |
 | Knowledge base | Obsidian vault (markdown) | Kepano-style Zettelkasten |
 | Overnight automation | Claude Code `/schedule` | Queue research tasks |

@@ -1,1 +1,11 @@
-Alex Sharon
+# Learning Agent
+
+A personalized, research-first learning agent built with Claude Code skills. The agent autonomously searches for quality sources, builds an Obsidian Zettelkasten knowledge base from them, and tutors the user from that grounded knowledge — not from general LLM training data.
+
+Designed for multidisciplinary learners who want to reduce the overhead of self-directed learning. Instead of hunting for information across tabs and tutorials, the agent handles research, synthesis, and organization so the user can focus on understanding and building.
+
+**Active domains:** Audio engineering (FL Studio, Volt 476, AT2035), Photography (Fujifilm X-T4, Capture One Pro), Knowledge management (Obsidian / Dataview)
+
+**Skills:** session-router, research-and-ingest, wiki-builder, tutor, learning-profile
+
+Built as a class project prototype for AI Agents, Spring 2026, UMaine.

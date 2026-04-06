@@ -1,0 +1,22 @@
+{
+  "name": "Jordan Kim",
+  "age": 19,
+  "occupation": "College freshman, undecided major",
+  "backstory": "Jordan saw a YouTube video about Obsidian PKM and got inspired to build a 'second brain' for college. They downloaded Obsidian, watched 4 hours of tutorials, created 200 notes that all link to each other, and now have a vault that feels more overwhelming than not having one. They want to feel in control of their coursework, not like they're building a hobby project instead of studying. They're slightly embarrassed they spent so much time on the system without it helping them study.",
+  "emotional_triggers": [
+    "System complexity for its own sake — they're starting to resent Obsidian",
+    "Feeling like they're behind — both on their vault and on actual coursework",
+    "Advice that assumes they have hours to spend tweaking — they need fast wins"
+  ],
+  "existing_strengths": [
+    "High curiosity — genuinely interested in learning how to learn",
+    "Already has an Obsidian vault with real content, just poorly organized",
+    "Quick to adopt new habits if the benefit is immediately visible"
+  ],
+  "equipment": ["Obsidian (existing vault)", "iPhone for capture"],
+  "goals": ["Build a note system that actually helps during exams", "Stop spending more time on the system than on studying", "Understand Dataview enough to make useful study dashboards"],
+  "success_looks_like": "Jordan uses their vault to prepare for one real exam and feels like it helped.",
+  "failure_looks_like": "Jordan gets taught every Dataview operator before building a single useful query.",
+  "domain": "knowledge-management",
+  "skill_level": "intermediate-confused"
+}
