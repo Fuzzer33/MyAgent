@@ -1,0 +1,57 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "d54e7e99b6b9",
+  "session_id": "32b3d1ba-5da2-453a-b3ba-89007f86e3ca",
+  "strategy": "manual-commit",
+  "created_at": "2026-04-06T14:43:33.8771767Z",
+  "branch": "main",
+  "checkpoints_count": 1,
+  "files_touched": [
+    ".claude/skills/learning-profile.md",
+    ".claude/skills/research-and-ingest.md",
+    ".claude/skills/session-router.md",
+    ".claude/skills/tutor.md",
+    ".claude/skills/wiki-builder.md",
+    "CLAUDE.md",
+    "docs/superpowers/specs/2026-04-05-learning-agent-design.md",
+    "vault/_master-index.md",
+    "vault/_raw-index.md",
+    "vault/audio-engineering.md",
+    "vault/inbox.md",
+    "vault/knowledge-management.md",
+    "vault/learner-profile.md",
+    "vault/photography.md",
+    "vault/templates/category.md",
+    "vault/templates/concept.md",
+    "vault/templates/evergreen.md",
+    "vault/templates/exercise.md",
+    "vault/templates/lesson.md",
+    "vault/templates/reference.md",
+    "vault/templates/research-source.md",
+    "vault/templates/tool-guide.md",
+    "vault/templates/weekly-review.md",
+    "vault/templates/workflow.md"
+  ],
+  "agent": "Claude Code",
+  "model": "claude-opus-4-6",
+  "turn_id": "fe4661d7fda6",
+  "token_usage": {
+    "input_tokens": 1604,
+    "cache_creation_tokens": 62200,
+    "cache_read_tokens": 823766,
+    "output_tokens": 12297,
+    "api_call_count": 19
+  },
+  "session_metrics": {
+    "turn_count": 1
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-04-06T14:43:33.7077766Z",
+    "agent_lines": 894,
+    "human_added": 1693,
+    "human_modified": 1,
+    "human_removed": 0,
+    "total_committed": 2588,
+    "agent_percentage": 34.54404945904173
+  }
+}
