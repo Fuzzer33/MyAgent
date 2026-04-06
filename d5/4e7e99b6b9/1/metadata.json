@@ -1,0 +1,36 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "d54e7e99b6b9",
+  "session_id": "b0e1ed9a-520b-4676-a722-8bbf59796488",
+  "strategy": "manual-commit",
+  "created_at": "2026-04-06T14:43:34.2824195Z",
+  "branch": "main",
+  "checkpoints_count": 4,
+  "files_touched": [
+    "README",
+    "docs/superpowers/specs/2026-04-05-learning-agent-design.md",
+    "eval/rubrics.py"
+  ],
+  "agent": "Claude Code",
+  "model": "claude-opus-4-6",
+  "turn_id": "912fbc47401a",
+  "token_usage": {
+    "input_tokens": 1027,
+    "cache_creation_tokens": 64846,
+    "cache_read_tokens": 805396,
+    "output_tokens": 14988,
+    "api_call_count": 18
+  },
+  "session_metrics": {
+    "turn_count": 4
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-04-06T14:43:34.0291911Z",
+    "agent_lines": 0,
+    "human_added": 3017,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 3017,
+    "agent_percentage": 0
+  }
+}

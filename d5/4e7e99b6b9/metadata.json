@@ -3,7 +3,7 @@
   "checkpoint_id": "d54e7e99b6b9",
   "strategy": "manual-commit",
   "branch": "main",
-  "checkpoints_count": 1,
+  "checkpoints_count": 5,
   "files_touched": [
     ".claude/skills/learning-profile.md",
     ".claude/skills/research-and-ingest.md",
@@ -11,7 +11,9 @@
     ".claude/skills/tutor.md",
     ".claude/skills/wiki-builder.md",
     "CLAUDE.md",
+    "README",
     "docs/superpowers/specs/2026-04-05-learning-agent-design.md",
+    "eval/rubrics.py",
     "vault/_master-index.md",
     "vault/_raw-index.md",
     "vault/audio-engineering.md",
@@ -36,13 +38,19 @@
       "transcript": "/d5/4e7e99b6b9/0/full.jsonl",
       "content_hash": "/d5/4e7e99b6b9/0/content_hash.txt",
       "prompt": "/d5/4e7e99b6b9/0/prompt.txt"
+    },
+    {
+      "metadata": "/d5/4e7e99b6b9/1/metadata.json",
+      "transcript": "/d5/4e7e99b6b9/1/full.jsonl",
+      "content_hash": "/d5/4e7e99b6b9/1/content_hash.txt",
+      "prompt": "/d5/4e7e99b6b9/1/prompt.txt"
     }
   ],
   "token_usage": {
-    "input_tokens": 1604,
-    "cache_creation_tokens": 62200,
-    "cache_read_tokens": 823766,
-    "output_tokens": 12297,
-    "api_call_count": 19
+    "input_tokens": 2631,
+    "cache_creation_tokens": 127046,
+    "cache_read_tokens": 1629162,
+    "output_tokens": 27285,
+    "api_call_count": 37
   }
 }
