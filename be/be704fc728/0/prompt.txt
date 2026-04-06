@@ -1,0 +1,207 @@
+/brainstorming help me impliment the agent outlined in learning-agent-design-brief.md
+
+---
+
+no
+
+---
+
+through the zettlecastin style of notes that the CEO of obsidian uses, i want to promote linking of many ideas together. i am a miltidisiplenary learner, and would like to be able to be tutored accross a variety of fields by this agent. so for the purpose of the school assignment, maybe show one working domain, but in general id want it to be applicable to learning about all sorts of material
+
+---
+
+I am leaning B, but am worried that an AI agent would be able to access my personal notes. would running claude inside of the MyNotes/Agent folder only allow it to access notes in that fodler? i dont want an AI to even be able to see inside my personal notes, accidentally or not, too big of a security risk and design flaw
+
+---
+
+yeah that works
+
+---
+
+B, but also prompting the user if theyd like to add this area to its nightly research section, where the next lesson is generated
+
+---
+
+honesty maybe B, but these wont be hard to generate because I will be writng down a running list of questions or topics i am interested in, and would like the content of the lesson to cover that plus associated knowledge gained that i may be ignorant to
+
+---
+
+yeah lets do B, but make sure that B your findings for B are very accurate
+
+---
+
+yes C
+
+---
+
+yes C for sure
+
+---
+
+yeah lets do 1
+
+---
+
+just make sure the vault structure follows the principles in here with the templates folder and also the Properties?: 
+# How the CEO of Obsidian Takes his Notes (Underrated Genius)
+
+**URL:** https://www.youtube.com/watch?v=Dq3R3uS0sQ4&list=LL&index=4
+**Creator:** Karlos Obsidian Tutorials
+**Captured:** 2026-04-05 22:03
+
+> [!summary]
+> Being the CEO of the coolest notetaking software out there must come with its wisdom.Truly, there is so much to learn about the vault of Kepano (Steph Ango)....
+
+## Transcript
+
+![](https://www.youtube.com/watch?v=Dq3R3uS0sQ4)
+
+## Transcript
+
+### Intro
+
+**0:00** · Two years ago, a simple template was posted on Reddit. The author was Stefango, also known as Kipano. He's the CEO of Obsidian MD. Obsidian being a fantastic free note-taking app already boasting lots of community contributions, this wasn't anything unusual. But when I tried Steph's system myself, I realized it's like nothing I've ever seen before. It ignores all the rules I knew, having me build an absolute mess. But in that chaos, a network of \[music\] knowledge emerged.
+
+### A different approach
+
+**0:30** · Even though the process was lazy and chaotic, I made new connections and started seeing the tracks in my thinking. And suddenly, Obsidian became my most valuable tool for learning, writing, and thinking. But before I built this up and teach you how to use it yourself, let me warn you about a trap that everyone walks into, me included. You see, these two years ago, I already downloaded Steph's template to see it for myself. But I was disappointed because it looked like any other loweffort starter system. It felt like stepping into the palace of a king and just seeing a lot of empty rooms with just tables and chairs and that's it. But that wasn't even the worst part.
+
+### Don’t make my mistake
+
+**1:11** · His blog beautifully gave me the why.
+
+**1:14** · His system is designed like it is. The philosophy being so short yet effective.
+
+**1:19** · But as much as I wanted to put all of that into action, it was really hard to figure his system out. I didn't really see the genius in it back then and therefore I abandoned it quickly and as a result I oversaw one of the biggest learning opportunities the Obsidian community offers. But now I understand and I want you to do too. I want you to avoid that mistake which is why the entirety of this video is showing you step by step how to use the vault of the Obsidian CEO himself. I guarantee his philosophy must inspire you at least in one aspect. \[music\] As a first step, you want to download Obsidian if you haven't done so already, which you can do with the first link in the description. Click. And now, when you sit in this view, you're going to download Steph's vault either by clicking here on his blog post, also link in the description, or by cloning his GitHub repo or getting it from my template site. After receiving this zip file, unpack it first. And now you should have a folder that has like a lot of subfolders within it. And you know, instead of creating an Obsidian vault from scratch, now we're going to open this folder as our vault. And I mean, what even is a vault in Obsidian? It's it's literally just a folder of like files, specifically text files. So like uh MD files, which are just fancier text files. So I'm actually going to put it in a more specific place. And now within Obsidian, I'm going to click open folder as vault. Navigate to where saved this folder and highlight kano obsidian main and click on open. And now we have successfully opened the vault of the Obsidian CEO at least this template. And before diving into anything, I want to highlight the first pillar of Steph's note-taking philosophy. Like as much as we can browse through these files, you know, write in them and edit them. In reality, this is still just a folder of files. We are not dependent on the software. And whatever we write like goes into these markdown aka text files.
+
+### Installing the Vault of the Obsidian CEO
+
+### File over app
+
+**3:14** · So if the software were ever to broke down, what we wrote is would still like exist. It would outlast the software.
+
+**3:22** · And he immediately highlights this within his blog because this is part of the file over app philosophy. If you don't really have that much Obsidian experience yet and the system doesn't really make any sense on like first site, we're going to go through everything step by step. So don't worry, things will make sense later. So let's actually look at the folders first.
+
+### No more Folders
+
+**3:41** · Okay, I'm just going to delete the readme. You know, in order to understand an Obsidian vault, it's always good to just go through the folders, but this is kind of misleading in Steph's system specifically. Like Steph says that he uses very few folders, that he avoids folders because his many entries belong to more than one area of thought. Like his system is oriented towards speed and laziness, and he doesn't want the overhead of deciding where things should go. This philosophy goes even so far that he says that both the categories and the notes folder. So again, the categories and the notes folder are both just in the downloadable version of his vault for clarity. They also usually wouldn't be here. So where the heck do our notes actually go to? Steph says most of my notes are in the root of the vault, not a folder. If a note is in the root, I know it's something I wrote or \[music\] relates directly to me. Example C names are journal entries, essays or evergreen notes. I'm going to explain those later. So, what did we learn? We can actually just, you know, open the notes folder, take all the notes within here, and just drag them into the root.
+
+**4:51** · The root being the place of just not any folder that categorizes anything, and delete \[music\] the notes folder because Steph doesn't really have that in his system. And you know when I came to that step back then I was like okay but how the heck do we keep things organized then? Because you know quickly this will look something like this. Like if you take just more than 20 notes you're going to have a file explorer that's just pure chaos. But Steph specifically shows us my notes are primarily organized using the categories property.
+
+### Understand Properties and Categories
+
+**5:22** · Okay. So how does that actually look like? I really want you to understand properties. Okay. I'm actually going to create a new note to explain. So let's say we're in school and you have your math workbook. Of course, each school book contains detailed information, but apart from what's in it, you also basically can dissect some labels from the cover of it. And in general, all school books have certain attributes.
+
+**5:48** · That means you can categorize them by a certain piece of information. So for example, a math workbook has a subject, which is math. Also, it probably has an author which is uh some teacher and it probably has a grade level which \[music\] is maybe for nth grade. But in Obsidian, you know, we can add these properties to notes also to sort of sort them, but we don't just write them at the top like this. But instead to make this information more easily accessible, we do three minuses. So minus minus minus and this creates this \[music\] properties window. And here we can add all sorts of properties or labels. So again we could add the subject which is math. Now let's add another property. Click then the author. So this is actually a property that already exists in this vault uh which is some teacher and \[music\] a grade level. And with this I can also show you these properties can be specific types of information. So, a grade could be nine as a text, but it could also, if you click on the left of it, property type, not just a text, \[music\] but more like fittingly, a number. So, I'm going to click on number. It gets the number icon, and I can add a nine. You know, now in my Obsidian vault, I could find this note a lot more quickly if I search for a lot of workbooks from like 9th grade, for example. One of the main moves I want you to learn immediately is apart from just right clicking into the root of the vault and clicking new note. You could also, so I'm going to delete that quickly, click on create new unique note on the left. Click, which immediately creates a note that has the current date and the current time. So 2nd of December 7 about 7:00 a.m. already some magic that is built into this vault adds two properties which one tell your vault and you when you actually created this note.
+
+**7:41** · So even if you delete the title and write my amazing thought in there, you still know that this note was created on 2nd of December 2025 and also that it already has some tags so that you know that is it it's like a journal entry and a note and now in Steph system what if we for example want to write about a meeting we had with a person then we can click on add property then go to categories as like the kind of property we want to add and then search for meetings.
+
+**8:11** · Enter. And I'm going to change the title fittingly. Meeting my best friend in Chile. And then you you could write about all that happened in here. And now, yeah, it it's well and good that we see that we've added this property, but what does that give us exactly? So, if we check the blog out, he specifically says categories display an overview of related notes using the basis feature in Obsidian. So, basis work, I've explained that in another video. You can go check it out. It's not that important right now, though. Just what I want you to do is look into the categories folder and then click on meetings. And now within this meetings category note, you actually see this note that you've added and assigned the property meetings \[music\] to. So there's also the category journal. And of course this note also had the category journal in it or at least the tag. And you know if we were to create another so click on create a new unique note and we now for example leave at least the day date in it and write meeting another friend in Italy.
+
+**9:15** · Add the property categories and then again meetings and go back to our meetings category note also that is going to be added into our smart table aka an obsidian base. But of course, some things are still missing here. And in general, this is still not fully how Steph would do \[music\] this. But you being the attentive viewer, you probably seen already that these properties here, like the date or with whom this meeting happened is not filled out yet. And I got to say, I have still spared you.
+
+### Steph's real filesystem + quick switching
+
+**9:48** · This is not the genius way on how Steph is actually adding properties to his notes. Because there's two things I want to show you. The first thing is that in order to check out a category, we don't even use the file navigation. That is literally wasting us time. And as Steph said in his blog, his categories folder is only there for clarity. \[music\] So what we're going to do now is just take everything inside the categories by shift highlighting it and dragging it into the root of the vault as well and deleting our categories folder. But then now picking out our category would be kind of tedious. But again we are not using the file navigation in order to find a property. So if we go back to our meeting node and now we want to see all the meetings we click on Windows it's control O on Mac it's command O to open the quick switcher. You can also open it by clicking this icon on the top left but in general I recommend learning the shortcut. So command O on Mac. And now we can just search for meetings. Hit enter. And now we see all our meetings.
+
+**10:54** · You see? And if you want to find that specific meeting you had with your friend, you're also going to hit command O and then type in meeting \[music\] another friend in Italy and you're going to open that note. But these aren't of course all the ways of navigation. And secondly, just adding meetings as a categories property by hand is too much effort. So I'm going to rightclick the icon and click on remove. And now let's say again you created this note because you want to document a meeting you had with a friend. And now you're going to go to the ribbon menu again and click on this icon which says insert template.
+
+### Templates + Hotkeys
+
+**11:30** · Like Steph specifically says almost every note I create starts from a template. I use templates heavily because they allow me to lazily add information that will help me fight the notes later. Again highlighting that we are focusing on speed and laziness. So now inside this note when we click on insert template and now search for meeting we're going to find the meeting template. Click on it and now you see that all these properties are already added for you. By the way if the date is sort of bugging like here just click on this like warning \[music\] icon. Click on update then on the calendar and on today. This is a tiny bug you sometimes run into. I bet Steph is going to fix it. And the version I offer also has it fixed already. Okay. And here you could add like the people you met with. So for example, we already have uh Stephango as one of our options or the topics that you talked about which are also already provided by other nodes. We're going to get into that or like the location we were in. And if we now hit command O again and go to meetings, we see that the date and also the people we met is \[music\] now added to the table. Also to make this even quicker, go to the settings on the bottom left. Then in the categories, go to hotkeys. Then we're going to search for unique node something that we are using a lot and give it for example I recommend uh option or alt plus shift plus n for note \[music\] then for insert template we're going to use option shift t for template and we're also going to search for daily note so open today's daily note how they are relevant we're going to look into that as well in a minute so for that I'm going to use option shift D for daily and then also internal link add internal link option shift L or like alt shift L so now the flow is even quicker option shift N for a new unique note \[music\] then writing down in the title what we did meeting Steph \[music\] and go again then we're going to hit option shift T for templates search for meeting a meeting template and then add it you know that's \[music\] still being a And yeah, now we can write whatever we want.
+
+**13:37** · And by the way, now you can understand \[music\] like the unique note already has like uh tags and the created date within itself. And this is just because if we go into the settings and then like in core plugins, so these are all just main features in Obsidian that you can enable or disable \[music\] you like we have the unique node creator activated. And if we go to the settings of it, we see that it uses the root \[music\] as the new file location. And uh like as a template, it uses the journal template and like again the \[music\] format also of like year, month, day and hours and minutes. So you could also just create a unique note by hand if you click like \[music\] new note, named it whatever and then hit option shift t aka insert template and then just \[music\] use the journal template, right? Like that's just good to mention.
+
+### Steph’s Way of Using Links
+
+**14:27** · But there's of course one of the coolest concept we've been running circles around up until this point which basically makes this vault \[music\] as powerful as it is and I'm specifically talking about links. So now a quick recap on links. You create \[music\] them by typing two opening square brackets and it will automatically add two closing square brackets. And whatever you type in there is going to be a link.
+
+**14:48** · It can be within a sentence and like this creates a connection to another note and it's either unresolved because this file doesn't exist yet but if you theoretically click it then you know this would create the note a new or it can point to something we've already made. So again to opening square brackets and now meeting another friend in Italy I could also type Italy and again it would suggest that and if I click on this link I'm going to open that note and like this is all well and good. I want you to understand that in Steph's system linking notes is very important. Like he specifically says that he uses a lot of internal links throughout his notes and that he tries to always link the first mention of something. Like even if these new things aren't pointing to anything yet and like specifically this heavy linking style becomes more useful as \[music\] time goes on because you can trace how ideas emerged and the branching paths that ideas created and like you can navigate a lot better between notes. And also what I personally like it sort of feels like you can take notes on anything and I will show you. So let's create a new unique note. So option shift \[music\] N.
+
+**15:48** · And now let's leave the date in there because this is one of my daily entries and we're going to leave the date because this is one of my entries that I did within the day. So let's say we actually added this journal entry. So I went to see the movie Perfect Days with Asia and Vidiots and had Filipino food at Little Onpin. I love this quote from Perfect Days. Next time is next time.
+
+**16:08** · \[music\] Now is now. It reminds me of the essay blah blah blah blah blah. This is the example Steph gave us. We're now using the rule of ste which says that we link anything \[music\] that we mentioned for the first time.
+
+**16:21** · For example, I went to see the movie perfect days. Perfect days is something we can link. So we saw the movie perfect days and now with Aisha. \[music\] So option shift L at vidots. We could also do it by hand. So option and then \[music\] you know add the brackets and had Filipino food at and \[music\] that is also like a restaurant we could take notes on. And I love this quote from perfect days. So we're not going to highlight link this again because we already created a link for the first mention, but the quote itself could also be something we \[music\] link to. So yeah, the shortcuts we previously added does accelerate this workflow. And like again, we don't have to take notes on all of these things, but we're sort of setting an indirect intention that we could do \[music\] so in the future. Or if we, for example, really need to write down a thought about a certain quote, we could click, of course, on the note of our quote, then hit option shiftt \[music\] for template and then use the quote template. And again, the created thing, I'm I'm really confused why it's bugging so much. \[music\] And yeah, now write down uh this quote really inspired me.
+
+**17:28** · Of course, that's kind of generic. I mean this is about you know writing down deep thoughts and stuff but you you get what I mean. Now we can go back also like these arrows for navigation will be very handy and like hitting \[music\] uh control alt and then left or right arrow. Well on Mac OS it's option command left and right arrow so you can you don't need to click these arrows or like we're going to take a note on Aisha. So we're going to click on Aisha then option shift T and then people template. And here we can also edit her birthday or like her website uh slorganization. And also notice that for example the people template there are some handy templates. They add a specific \[music\] uh base/ table that lists relevant information about that certain note. For example for people it does make sense to list all the instances where we met them like all the meetings. So if we go back to meeting a friend in Italy and say okay one of the people has been so two square brackets Aisha now through our meeting we could navigate to Aisha and see in within Aisha that like we had a meeting with another friend in Italy at this and that date and that there were also other people there like because the thing I want you to understand now is that we're not just adding properties because in properties you can add like just simple \[music\] information like a date or like the name of an author. But what Steph does is he doesn't just add \[music\] like categories like you you could just write meetings and \[music\] click enter you know then there's an X there like you don't need to add the specific detail but he did that all of his categories and in general often the properties he's adding are links they are links themselves. So if we add Asia, we can \[music\] just add like Asia like this but again with square brackets Asia so that we can navigate through things and things are more interconnected. And now if we combine this with \[music\] backlinks something uh you might have not uh not have opened already. So, you're just going to extend this menu on the top \[music\] right and then click on here. And combined with backlinks, you now get so many ways to navigate \[music\] through things like to people or maybe to the categories of people about it.
+
+**19:48** · You know, you you could really just fly through all of these things and you know, it's it's it's all interconnected, which gives you another way to basically open everything through your original path of thinking. And also these backlinks that we just opened like this note is pointing to Aisha but nothing inside of Aisha is pointing toward the awesome event we had with her. Like this meeting is not the awesome event but in the backlinks we see where has this note been mentioned as a link. So here I went to see the movie perfect days with I. So here we have the link mentioned and we can \[music\] click it and bam we're back within our awesome event. But of course, some people might be wondering here, weren't we just supposed to only put \[music\] things that are like our original thoughts or journal entries into the root of our vault? But like Aisha, she's now also part of all the files that we have in the root of our vault. But you know, Steph does keep a separation there because again, we can journal about things that are outside of our world. And for this, we use the references folder. So to organize in that way, we're just going to drag Aisha into our references. And we can see from all the example notes that staff has added, we see a lot of other examples.
+
+### References Folder
+
+**21:04** · For example, he added himself here, but also the show Futurama or the genre sci-fi or like a podcast.
+
+**21:12** · So this sort of creates this clean separation between things outside of our world which we put into the references folder or the notes we take the general things thoughts uh and journal entries we're doing which we keep in the root of the vault. Also if we create like the movie perfect a perfect days note like for now and then click on the three dots and click on move file too and then click on references you know in order to not have to find it on the left here. As this is a movie, we're going to add the movie template. By the way, to not fill out all of these things by hand, you could check out my movie base tutorial \[music\] because using the media DB plug-in would be very handy here. And as you might see, there's a property called rating that is also being added here.
+
+### Rating any Note
+
+**21:52** · So, if this movie is really important to you, of course, you want to sort of mark the priority to yourself. And this is really cool because Steph also has his own rating system. So, it's a number from 1 to 7 and 7 being like absolutely life-changing and it goes all the way down to one, which is that it's negatively life-changing. So, if this movie absolutely inspired you, you can add the rating of seven. And then if you go to command O ratings, and you know, this sort of gives you the option to mark things for later depending on how life-changing they are. And you could also, by the way, open like the uh ratings base at least to see all the things you've rated. But again, what I like on that is that you can sort of apply a rating to theoretically anything. So that awesome event you had like maybe itself in your opinion should uh like get a rating. So you could also add the rating property and like give it maybe a five because it wasn't particularly life-changing, but it was still something you want to remember.
+
+**22:50** · But you know, ratings are more, \[music\] you know, intuitive on things that are outside of your world. Obviously, another thing that adds flexibility, by the way, is like if we create a new note, and let's say we have a person that we personally know, but also who is an author. So, we're just going to choose Ernest Becker. And now we can add the people template because we know them. And now we could also add the author template as well. And you know, these things, they don't really overlap.
+
+### Composable Templates
+
+**23:18** · Most templates, as Steph says, should aim to be composable. So you can add multiple templates to the same note.
+
+**23:26** · This makes everything even more flexible and again every note probably belongs to multiple areas of thought. So within this note then about Ernest Becker which I'm going to by the way put into the references folder again is a note that shows us all the meetings we have with that person but also all the books they've written. Also I want to show you another category which makes this vault like three times cooler. So if we again create a new note. Now let's say you have a very very counterintuitive insight that you've either read or just had yourself. For example, now we're going to get really deep and like this. This is a cool idea.
+
+### Evergreen Notes
+
+**24:04** · Something we might want to reference in other notes and something that is just so like like we can write things \[music\] like I could have written down all I've said just now, but this is something I want to reuse, remind myself of. And how Steph uses these ideas \[music\] specifically taken from another author who invented and coined this term. This is an evergreen note. So if we just add the template evergreen, this is going to add this very tiny tag. \[music\] In general, if we now command O and search for and open the evergreen category, then we're going to see that the base, you know, shows us all the evergreen things, evergreen ideas we have. And one of the evergreen notes that is pre-added to this vault is literally an explanation of evergreen \[music\] notes.
+
+**24:47** · So evergreen notes turn ideas into objects that you can manipulate. And like here's all the explanation for that. But yeah, death is sanity. So if we again make another note and \[music\] just you know write about something, have like a big insight, then we could always just refer back \[music\] to you know death is sanity and like like have our contemplations whatever. And \[music\] this again creates uh connections in like the graph view, you know, lets you navigate back to death is sanityanity and all your notes you took on that because you're objectifying an idea you want to reuse again and again. So that that that is literally what evergreen notes are. Now to fully grasp the vault, we have still ignored three folders that just exist so we can avoid putting some things in the root of the vault, which one is the attachments folder. So through the core setting. So go to the settings bottom left and then if we go to files and links you know the attachment folder path is specified as being the folder attachments. So if we just actually add a photo to just anything like I just copied one and V8 it like this photo is going to be added and it's like within the attachment folders as like a separate file or like for example for book covers. Yeah, of course in this vault system you could build a book library base. Tutorial for that is here. Then of course there's the templates folder with all the like we only uh looked at some of these templates but in the end there are a lot to choose from and you can of course also build your own and by the way it also includes all the bases as like their own file like these smart tables and yeah there is also the daily folder where daily notes are being put in. So, we created a lot of notes today. And in general, if we just use the button open today's daily note or the shortcut we made, which is option shift D, we're going to create a daily note. I mean, Steph specifically says that it doesn't write anything in this daily notes and they solely exist to be linked to from other entries. So you can sort of trace back which notes have I created today you know or like on that day for example meeting my best friend in Chile like I wrote that today because this is connected via the created property and by the way so a sort of subcategory of like references so things that are outside of our world that I haven't mentioned is the folder clippings. So this is where like articles from the internet are actually coming into if you want to take notes on them or like just save them to your vault to your second brain. And for that the Obsidian Web Clipper is often like the way to go. If you want me to make a tutorial on that, let me know in the comments because this is something that is part of Stev's flow as well. Okay. And as awesome as all of this is so far, how often do we take our notes then? I mean, this system is so radically flexible, but it creates all these awesome connections. Like again, what is the approach here? Again, we could truly decide that for ourselves here, but let me show you the specific rhythm Steph describes in his blog \[music\] post. And we're going to start with daily. So, every single day, if you have a thought, a a a like an insight to write down, you could create a new unique note and \[music\] just write it down. Either like leaving in the specific minutes and date of the specific thought, or you could leave it and like add the thought that you had, add the notes on it. It could also be a journal entry. So again, sort of the example we had with the awesome event.
+
+### Attachments and Templates Folder
+
+### Daily Notes
+
+### Clippings Folder
+
+### The Note-taking rhythm
+
+**28:04** · So like at the evening if you want to reflect on the day, take notes on the restaurant you uh you went to. Write down a sentence like this and you know link all the first mentions of the things you visited, the people you've met. Just generally speaking, adding a descriptive title is important. And yeah, of course, if you want to make it easier for you to find that note later, add some properties with your templates.
+
+**28:25** · What Steph also describes is that sometimes so every few days so this is also something really flexible he goes through the ideas of of his recent days so I assume he's reviewing some of his daily notes you know seeing all the notes that he has taken in the last 3 to 4 days and then he describes how he's compiling the thoughts that are relevant to him. So maybe if you look at all that you've written down in the \[music\] recent week you're seeing oh I'm actually getting happier and like why is that? So like I'm I'm I'm going to make a new note and sort of you know add the date and sort of add that title and you know now with the references of the specific notes sort of reason why I've developed in a certain way why I've had certain thoughts in a specific domain you know again the possibilities are quite endless here but but the main idea is to sort of compile and like summarize aggregate the best ideas the things that stuck out to you the most. Now when we talk about the weekly basis, Steph quickly mentions that this is actually how he also looks at making to-dos. So there are a lot of people who have a very fancy workflow for making like big to-do lists within another program or Obsidian itself. Like even though we can't really find a weekly template within this vault, Steph basically describes that every week he creates a weekly note and just writes down the to-dos like for his week. Just radically simple. So something like that for example is absolutely enough you know just with a simple markdown checklist using a minus and two square brackets.
+
+**29:53** · Now on a monthly basis Steph reviews his idea aggregation. So for example the note I created that I called getting happier and wiser and like now you got to imagine the reasoning. I've added some generic example here. And now he does like a monthly reflection. So create a new unique note and use the \[music\] template monthly note template which also is sort of buggy this part like at least the original vault I downloaded. So I'm just going to add things by hand in here. You sort of by hand sort of look at all the compilations idea big \[music\] highle patterns that you've like uh made within this month and yeah you know sort of make an even higher level reflection of what you've written and thought. Every few months, Steph decides to do a random revisit. So, he actually uses this handy button called open random note, which is a core feature of Obsidian. He opens random notes and sort of traver randomly traverses his vault, seeing thoughts from the past, getting inspiration from things he hadn't checked out in a while.
+
+**30:57** · And just you know if he finds something that he finds \[music\] interesting then he uses those links to sort of navigate through his network of knowledge and just find new things and again get more inspiration. And then every year he reviews all his monthly \[music\] reviews in combination with these 40 questions that you can also find in his blog. And yeah my god this has been a big tutorial. As a final disclaimer, uh Steph himself and I totally second that like he says this is not to be taken as dogma as the ultimate truth on how to take notes in Obsidian. Obsidian is so flexible and in \[music\] the end it's just about finding a system that works really well for you. You know, still I think this is one of the greatest approaches I've ever seen so far. And I personally learned so much making this video and I hope you now also learn at least one \[music\] new thing or one new style aspect, one new rule. Or maybe you're literally going to take a part of the system, which is totally what I did, and sort of just add that to your system and also just pragmatize your own system. Like I've noticed my system is so overcustomized, and I really learned something from the minimalism that Steph is suggesting. Shout out to Steph for making this vault \[music\] in the first place, sharing it, writing blog posts, and being the CEO of an awesome piece of software. Totally check out his blog.
+
+### Important Disclaimer
+
+**32:12** · I've linked it in the description. You know, read the source material yourself.
+
+**32:15** · And yeah, thanks for watching.
+
+## My Notes
+
+_Voice or type your notes here._
+
+---
+
+yes much better
+
+---
+
+yes
+
+---
+
+yes
+
+---
+
+yes
+
+---
+
+yes
+
+---
+
+yes
+
+---
+
+write the spec document

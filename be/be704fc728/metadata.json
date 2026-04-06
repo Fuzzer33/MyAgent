@@ -1,0 +1,25 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "bebe704fc728",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 0,
+  "files_touched": [
+    "docs/superpowers/specs/2026-04-05-learning-agent-design.md"
+  ],
+  "sessions": [
+    {
+      "metadata": "/be/be704fc728/0/metadata.json",
+      "transcript": "/be/be704fc728/0/full.jsonl",
+      "content_hash": "/be/be704fc728/0/content_hash.txt",
+      "prompt": "/be/be704fc728/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 72,
+    "cache_creation_tokens": 75336,
+    "cache_read_tokens": 1765196,
+    "output_tokens": 17309,
+    "api_call_count": 33
+  }
+}
