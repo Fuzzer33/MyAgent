@@ -53,6 +53,18 @@
         ]
       }
     ],
+    "PostCompact": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash scripts/obsidian-bg-agent.sh",
+            "timeout": 30000
+          }
+        ]
+      }
+    ],
     "Stop": [
       {
         "matcher": "",

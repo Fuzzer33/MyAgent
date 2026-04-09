@@ -8,7 +8,7 @@ categories: [[index]]
 
 ## Unprocessed
 
-(none yet — research-and-ingest will populate this)
+- [[raw/obsidian-second-brain-ai-integration-research-2026-04-09]] — Multi-source research on Obsidian second brain patterns, AI conversation integration, RAG, and learning-specific workflows
 
 ## Processed
 

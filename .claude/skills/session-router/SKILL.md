@@ -33,6 +33,13 @@ Parse the user's message — even if it's messy, stream-of-consciousness, or vag
 | Progress | "what should I study", "what's next", "update progress", "how am I doing", "mark X as done" | `/learning-profile` |
 | Build wiki | "synthesize", "build notes", "process raw", "update wiki", "build a lesson" | `/wiki-builder` |
 | Onboard | "I want to learn [new field]", "add a new subject", "new domain", "set up [topic]" | `/onboarding` (Flow B) |
+| Save session | "save this", "remember this", "extract from this conversation", "what should I remember" | `/obsidian-save` |
+| Vault search | "find in my notes", "search my vault", "what did I learn about" | `/obsidian-find` |
+| Vault health | "check my vault", "vault health", "orphaned notes", "contradictions" | `/obsidian-health` |
+| Daily review | "recap my day", "what did I study today", "daily summary" | `/obsidian-daily` |
+| Reflection | "what patterns do you see", "reflect", "30-day review", "what themes recur" | `/reflection` |
+| Connect domains | "connect [A] to [B]", "how does [X] relate to [Y] across domains" | `/obsidian-connect` |
+| Ingest source | "save this URL", "ingest this article", "add this source" | `/obsidian-ingest` |
 | Ambiguous | Can't classify with confidence | Ask ONE clarifying question, then route |
 
 ## Routing Behavior
@@ -44,6 +51,19 @@ When routing, pass context to the downstream skill:
 - **Skill level**: The user's level in this domain
 
 Invoke the target skill using the Skill tool. For example, if the user says "explain sidechain compression", invoke the `tutor` skill.
+
+## Vault Management Routing
+
+When routing to obsidian-* skills:
+- **Always read `vault/_CLAUDE.md` first** — it tells obsidian-* skills about our vault structure
+- When routing to `/obsidian-save`, pass: the current conversation context to extract from
+- When routing to `/obsidian-find`, pass: search term + domain context from learner profile
+- When routing to `/obsidian-health`, pass: vault path context
+- When routing to `/reflection`, pass: today's date + learner profile context
+- When routing to `/obsidian-connect`, pass: both concepts + their respective domains
+- When routing to `/obsidian-ingest`, pass: the URL or source + domain context
+
+**Note:** obsidian-* skills are installed globally (~/.claude/skills/obsidian-second-brain/). They coexist with our project-local learning skills.
 
 ## Rules
 
