@@ -3,7 +3,7 @@
   "checkpoint_id": "ebc1344190fc",
   "strategy": "manual-commit",
   "branch": "main",
-  "checkpoints_count": 5,
+  "checkpoints_count": 19,
   "files_touched": [
     ".claude/settings.json",
     ".claude/skills/learning-profile.md",
@@ -32,13 +32,19 @@
       "transcript": "/eb/c1344190fc/0/full.jsonl",
       "content_hash": "/eb/c1344190fc/0/content_hash.txt",
       "prompt": "/eb/c1344190fc/0/prompt.txt"
+    },
+    {
+      "metadata": "/eb/c1344190fc/1/metadata.json",
+      "transcript": "/eb/c1344190fc/1/full.jsonl",
+      "content_hash": "/eb/c1344190fc/1/content_hash.txt",
+      "prompt": "/eb/c1344190fc/1/prompt.txt"
     }
   ],
   "token_usage": {
-    "input_tokens": 4878,
-    "cache_creation_tokens": 234356,
-    "cache_read_tokens": 12882665,
-    "output_tokens": 52225,
-    "api_call_count": 108
+    "input_tokens": 6823,
+    "cache_creation_tokens": 309099,
+    "cache_read_tokens": 15125968,
+    "output_tokens": 64029,
+    "api_call_count": 145
   }
 }

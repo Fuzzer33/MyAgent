@@ -1,0 +1,54 @@
+i think the last session ended before the full last message was implimented (the idea of a skill that takes startup and knowledge of a subject) do you remember this converstation and can you see how far that implimentation was? i will give you more details if you cant see this
+
+---
+
+yes please
+
+---
+
+/statusline
+
+---
+
+for this   2. Or tell me what you'd like displayed in the statusline (e.g., directory, model, context usage, git       
+  branch, etc.) id like them all displayed, can you help me set up the statusline
+
+---
+
+/statusline
+
+---
+
+why is it not showing in the claude code ui?
+
+---
+
+okay get the directory out of there
+
+---
+
+is there a way to show context percent as a graph bar, where it goes from green to more and mroe red?
+
+---
+
+quillwick raises a lot of concerns im worried
+
+---
+
+how do i see the message history of guillwick
+
+---
+
+this is what its showing: Opus 4.6 • ███░░░░░░░ 35 • main                                                    what is the 35? if its a percent use a % or nothing at all
+
+---
+
+does the status line also show the remaining session limit / usage limit left? is there a way to do that?
+
+---
+
+yes, but also lets get rid of the branch name
+
+---
+
+can we use a different gradient for context window size? you pick the color scheme
