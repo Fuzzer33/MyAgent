@@ -1,0 +1,44 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "ebc1344190fc",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 5,
+  "files_touched": [
+    ".claude/settings.json",
+    ".claude/skills/learning-profile.md",
+    ".claude/skills/reflection/SKILL.md",
+    ".claude/skills/research-and-ingest.md",
+    ".claude/skills/session-router.md",
+    ".claude/skills/session-router/SKILL.md",
+    ".claude/skills/tutor.md",
+    ".claude/skills/tutor/SKILL.md",
+    ".claude/skills/wiki-builder.md",
+    "CLAUDE.md",
+    "README.md",
+    "scripts/obsidian-bg-agent.sh",
+    "vault/_CLAUDE.md",
+    "vault/_raw-index.md",
+    "vault/learner-profile.md",
+    "vault/log.md",
+    "vault/raw/obsidian-second-brain-ai-integration-research-2026-04-09.md",
+    "vault/references/smart-connections.md",
+    "vault/templates/daily-note.md",
+    "vault/templates/episode.md"
+  ],
+  "sessions": [
+    {
+      "metadata": "/eb/c1344190fc/0/metadata.json",
+      "transcript": "/eb/c1344190fc/0/full.jsonl",
+      "content_hash": "/eb/c1344190fc/0/content_hash.txt",
+      "prompt": "/eb/c1344190fc/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 4878,
+    "cache_creation_tokens": 234356,
+    "cache_read_tokens": 12882665,
+    "output_tokens": 52225,
+    "api_call_count": 108
+  }
+}
