@@ -1,0 +1,9 @@
+in this agent, I am wondering if there is any implimnetation on a first time startup. Id like the this agent to be able to distill a long, spoken, text about what I know about a new topic and then categorize that into user knowledge (where it is not teaching about this information, but maybe brushing up on it). also, this has to be a general agent for a class, where users may not be ready or wanting to learn about my specific areas of intrest (audio engineering, photography, etc.). It has to be a general agent where a user can add domains (or subjects) that they themselves want, give it their current knowledge on the topic, and any future goals. then therefore, it can teach each person what they are looking for and with repeatble sources, and build a vault structure that serves as notes they can refrence for their subjects. I dont think this initial step is covered yet in the agent and id like to impliment it, making sure the agent has all of the users initial knowledge about a subject and where to go next to acheive their goals and develop practical skills. look for this missing piece and help me plan it
+
+---
+
+yes impliment this
+
+---
+
+1

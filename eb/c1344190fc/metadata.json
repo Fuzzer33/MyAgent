@@ -3,7 +3,7 @@
   "checkpoint_id": "ebc1344190fc",
   "strategy": "manual-commit",
   "branch": "main",
-  "checkpoints_count": 19,
+  "checkpoints_count": 20,
   "files_touched": [
     ".claude/settings.json",
     ".claude/skills/learning-profile.md",
@@ -16,6 +16,7 @@
     ".claude/skills/wiki-builder.md",
     "CLAUDE.md",
     "README.md",
+    "docs/superpowers/plans/2026-04-06-onboarding-skill.md",
     "scripts/obsidian-bg-agent.sh",
     "vault/_CLAUDE.md",
     "vault/_raw-index.md",
@@ -38,13 +39,19 @@
       "transcript": "/eb/c1344190fc/1/full.jsonl",
       "content_hash": "/eb/c1344190fc/1/content_hash.txt",
       "prompt": "/eb/c1344190fc/1/prompt.txt"
+    },
+    {
+      "metadata": "/eb/c1344190fc/2/metadata.json",
+      "transcript": "/eb/c1344190fc/2/full.jsonl",
+      "content_hash": "/eb/c1344190fc/2/content_hash.txt",
+      "prompt": "/eb/c1344190fc/2/prompt.txt"
     }
   ],
   "token_usage": {
-    "input_tokens": 6823,
-    "cache_creation_tokens": 309099,
-    "cache_read_tokens": 15125968,
-    "output_tokens": 64029,
-    "api_call_count": 145
+    "input_tokens": 6859,
+    "cache_creation_tokens": 387778,
+    "cache_read_tokens": 16146617,
+    "output_tokens": 85098,
+    "api_call_count": 168
   }
 }
