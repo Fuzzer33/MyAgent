@@ -1,0 +1,13 @@
+# Obsidian app config (user-specific)
+vault/.obsidian/
+
+# Smart Connections embeddings (large, machine-specific)
+vault/.smart-env/
+
+# Claude Code local files
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
+
+# System artifacts
+bash.exe.stackdump
+*.stackdump
